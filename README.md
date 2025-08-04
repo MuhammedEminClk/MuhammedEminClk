@@ -1,3 +1,46 @@
+<h1 align="center">Hi 👋, I'm Muhammed Emin Çelik</h1>
+<h3 align="center">A passionate Computer Engineering student and full-stack developer from Turkey</h3>
+
+- 🔭 I’m currently working on **a cross-platform social media app with Flutter & Firebase**
+
+- 🌱 I’m learning **advanced backend systems with Node.js and MongoDB**
+
+- 💬 Ask me about **Flutter, React, Firebase, Redux, REST APIs**
+
+- 📫 How to reach me: **muhammedlance@gmail.com**
+
+- ⚡ Fun fact: I love building apps that solve real-world problems 🚀
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+Dart, JavaScript, C++, C#, SQL, Swift
+
+**Frameworks & Tools:**  
+Flutter, React, Redux Saga, Node.js, Express, Firebase, MongoDB, SQL Server, Studio 3T, WebStorm
+
+**Other:**  
+Git, Figma, Mendix, Excel, REST APIs
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedEminClk&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedEminClk&layout=compact&theme=dark" />
+</p>
+
+---
+
+## 📌 Projects to Check Soon
+
+- **Social Media App** (Flutter + Firebase)  
+- **Crypto Trading Platform** (Mendix)  
+- **Personal Portfolio Website** (Next.js - coming soon)
+
 ## Hi there 👋
 
 <!--
