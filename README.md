@@ -22,7 +22,7 @@ Dart, JavaScript, C++, C#, SQL, Swift
 Flutter, React, Redux Saga, Node.js, Express, Firebase, MongoDB, SQL Server, Studio 3T, WebStorm
 
 **Other:**  
-Git, Figma, Mendix, Excel, REST APIs
+Git, Figma, Mendix, Excel, REST APIs, Photoshop, Premiere Pro
 
 ---
 
