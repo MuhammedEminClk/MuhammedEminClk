@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a cross-platform social media app with Flutter & Firebase**
 
-- 🌱 I’m learning **advanced backend systems with Node.js and MongoDB**
+- 🌱 I’m learning **advanced backend systems
 
 - 📫 How to reach me: **muhammedlance@gmail.com**
 
