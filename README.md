@@ -24,15 +24,6 @@ Git, Figma, Mendix, Excel, REST APIs, Photoshop, Premiere Pro, After Effects
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedEminClk&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedEminClk&layout=compact&theme=dark" />
-</p>
-
----
-
 ## 📌 Projects to Check Soon
 
 - **Social Media App** (Flutter + Firebase)  
