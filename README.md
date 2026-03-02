@@ -36,9 +36,7 @@ Git, Figma, Mendix, Excel, REST APIs, Photoshop, Premiere Pro, After Effects
 ## 📌 Projects to Check Soon
 
 - **Social Media App** (Flutter + Firebase)  
-- **Crypto Trading Platform** (Mendix)  
-- **Personal Portfolio Website** (Next.js - coming soon)
-
+- **Personal Portfolio Website** 
 ## Hi there 👋
 
 <!--
