@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed Emin Çelik</h1>
 <h3 align="center">A passionate Computer Engineer and full-stack developer from Turkiye</h3>
 
-- 🔭 I’m currently working on **a cross-platform social media app with Flutter & Firebase**
-
 - 🌱 I’m learning **advanced backend systems
 
 - 📫 How to reach me: **muhammedlance@gmail.com**
@@ -17,16 +15,17 @@
 Dart, JavaScript, C++, Swift
 
 **Frameworks & Tools:**  
-Flutter, React, Redux Saga, Node.js, Express, Firebase, MongoDB, SQL Server, Studio 3T, WebStorm
+Flutter, React, Redux Saga, Node.js, Next.js, Express, Firebase, MongoDB, SQL Server, Studio 3T, WebStorm
 
 **Other:**  
 Git, Figma, Mendix, Excel, REST APIs, Photoshop, Premiere Pro, After Effects
 
 ---
 
-## 📌 Projects to Check Soon
+## 📌 Projects 
 
-- **Social Media App** (Flutter + Firebase)  
+- **UseCampus Social Media App (App Store)** (Flutter + Firebase)  
+- **[https://usecampus.com](https://usecampus.com/)**
 - **Personal Portfolio Website** 
 ## Hi there 👋
 
